@@ -6,6 +6,9 @@
 
 - 使用 `InternLM2-Chat-1.8B` 模型生成 300 字的小故事（需截图）
 
+- ![WX20240412-175554@2x](https://github.com/JeremeLau/Tutorial/assets/38304013/11c68c62-d1e9-45d2-9ce6-1162b15efe0a)
+
+
 **进阶作业 (优秀学员必做)**
 
 - 熟悉 `huggingface` 下载功能，使用 `huggingface_hub` python 包，下载 `InternLM2-Chat-7B` 的 `config.json` 文件到本地（需截图下载过程）
