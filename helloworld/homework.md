@@ -7,6 +7,9 @@
 - 使用 `InternLM2-Chat-1.8B` 模型生成 300 字的小故事（需截图）
 
 - ![WX20240412-175554@2x](https://github.com/JeremeLau/Tutorial/assets/38304013/11c68c62-d1e9-45d2-9ce6-1162b15efe0a)
+- 使用 `bajie` 模型生成 自我介绍（需截图）
+- ![WX20240412-180629@2x](https://github.com/JeremeLau/Tutorial/assets/38304013/3c77f049-2654-409f-931c-627450e72ea7)
+
 
 
 **进阶作业 (优秀学员必做)**
